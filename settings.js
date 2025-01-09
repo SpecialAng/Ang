@@ -9,10 +9,10 @@ const chalk = require('chalk');
 
 //~~~~~~~~~~~~< GLOBAL SETTINGS >~~~~~~~~~~~~\\
 
-global.owner = ['6282113821188','0']
+global.owner = ['6281271893280','0']
 global.packname = 'Bot WhatsApp'
-global.author = 'Nazedev'
-global.botname = 'Naze Bot'
+global.author = Ang'
+global.botname = 'Zoey'
 global.listprefix = ['+','!','.']
 global.listv = ['•','●','■','✿','▲','➩','➢','➣','➤','✦','✧','△','❀','○','□','♤','♡','◇','♧','々','〆']
 global.tempatDB = 'database.json'
@@ -62,7 +62,7 @@ global.APIs = {
 	hitori: 'https://my.hitori.pw/api',
 }
 global.APIKeys = {
-	'https://my.hitori.pw/api': 'htrkey-awokawok',
+	'https://my.hitori.pw/api': 'htrkey-oibxH50sNFvK',
 }
 
 //~~~~~~~~~~~~~~~< PROCESS >~~~~~~~~~~~~~~~\\
